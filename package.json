@@ -1,0 +1,30 @@
+{
+  "name": "ds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^2.2.0",
+    "@discordjs/voice": "^0.16.1",
+    "body-parser": "^1.20.2",
+    "canvas": "^2.11.2",
+    "discord-api-types": "^0.37.66",
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.3",
+    "mysql3": "^0.6.0",
+    "prism-media": "^1.3.5",
+    "socket.io": "^4.7.2"
+  }
+}
